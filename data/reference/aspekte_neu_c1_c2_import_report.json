@@ -1,0 +1,74 @@
+{
+  "source": "Aspekte_neu_C1_Complete_Wortschatz_DE_EN_ZH-TW_plus_C2_verified(1).pdf",
+  "validationPassedForCoreTotals": true,
+  "expected": {
+    "c1Entries": 3270,
+    "c1KeyEntries": 350,
+    "c2UpgradeEntries": 180,
+    "chapters": 10
+  },
+  "actual": {
+    "c1Entries": 3270,
+    "c1EntriesAssignedToKapitel": 3269,
+    "c1EntriesWithoutKapitel": 1,
+    "c1KeyEntries": 350,
+    "c2UpgradeEntries": 180,
+    "allEntries": 3450,
+    "chapters": 10,
+    "c1ByChapter": {
+      "1": 396,
+      "2": 322,
+      "3": 385,
+      "4": 418,
+      "5": 280,
+      "6": 367,
+      "7": 340,
+      "8": 213,
+      "9": 219,
+      "10": 329
+    },
+    "keyByChapter": {
+      "1": 35,
+      "2": 35,
+      "3": 35,
+      "4": 35,
+      "5": 35,
+      "6": 35,
+      "7": 35,
+      "8": 35,
+      "9": 35,
+      "10": 35
+    },
+    "c2ByChapter": {
+      "1": 18,
+      "2": 18,
+      "3": 18,
+      "4": 18,
+      "5": 18,
+      "6": 18,
+      "7": 18,
+      "8": 18,
+      "9": 18,
+      "10": 18
+    }
+  },
+  "dataQuality": {
+    "entriesWithExamples": 325,
+    "exampleSentenceCount": 337,
+    "entriesWithChunks": 29,
+    "chunkCount": 29,
+    "entriesWithExplicitFormenLine": 552,
+    "entriesMissingSourceReference": 1,
+    "entriesExplicitlyWithoutKapitel": 1,
+    "missingEnglish": 0,
+    "missingTraditionalChinese": 0
+  },
+  "warnings": [],
+  "needsReview": [],
+  "explicitLayoutArtifactFixes": {
+    "gekom- men": "gekommen",
+    "Zusammengehörigkeits- gefühl": "Zusammengehörigkeitsgefühl",
+    "Kommunikationsmanage- ment": "Kommunikationsmanagement",
+    "Präventions- angebote": "Präventionsangebote"
+  }
+}

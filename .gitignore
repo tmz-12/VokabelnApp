@@ -1,0 +1,14 @@
+node_modules
+.pnpm-store
+.next
+.env
+.env.local
+coverage
+playwright-report
+test-results
+*.tsbuildinfo
+.DS_Store
+desktop.ini
+.postgres-dev
+/AGENTS.md
+/SPEC.md
